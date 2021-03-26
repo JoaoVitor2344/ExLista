@@ -1,0 +1,10 @@
+E:\Arquivos\Projetos\ExLista\bin\Debug\ExLista.exe.config
+E:\Arquivos\Projetos\ExLista\bin\Debug\ExLista.exe
+E:\Arquivos\Projetos\ExLista\bin\Debug\ExLista.pdb
+E:\Arquivos\Projetos\ExLista\obj\Debug\ExLista.csprojAssemblyReference.cache
+E:\Arquivos\Projetos\ExLista\obj\Debug\ExLista.frmExLista.resources
+E:\Arquivos\Projetos\ExLista\obj\Debug\ExLista.Properties.Resources.resources
+E:\Arquivos\Projetos\ExLista\obj\Debug\ExLista.csproj.GenerateResource.cache
+E:\Arquivos\Projetos\ExLista\obj\Debug\ExLista.csproj.CoreCompileInputs.cache
+E:\Arquivos\Projetos\ExLista\obj\Debug\ExLista.exe
+E:\Arquivos\Projetos\ExLista\obj\Debug\ExLista.pdb
